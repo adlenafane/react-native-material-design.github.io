@@ -7,7 +7,7 @@ If you wish to contribute, follow the guidelines for the section you're looking 
 
 ## Core Library
 
-The core library can be found at the [react-native-material-design](https://github.com/react-native-material-design/react-native-material-design). Any ull requests, issues, ideas and suggestion are welcome.
+The core library can be found at the [react-native-material-design](https://github.com/react-native-material-design/react-native-material-design). Any pull requests, issues, ideas and suggestion are welcome.
 
 ## Demo
 
